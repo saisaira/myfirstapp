@@ -1,5 +1,5 @@
 {
-  "homepage": "http://saisaira.github.io/myfirstapp",
+  "homepage": "https://saisaira.github.io/myfirstapp/",
   "name": "myfirstapp",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run deploy",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
